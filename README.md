@@ -11,6 +11,6 @@ I have done variety of things here:
 7. Created a Neural-network model (with an Embedding layer and LSTM layer)
 to predict the number of Up-votes
 8. Created a Bag-of-words representation of the initial 10,000 headlines 
-9. Used this Representation to train a Xgboost Regressor model to predict the number of Upvotes
+9. Used this Representation to train a Xgboost Regressor model to predict the number of Upvotes(Done on the other notebook)
 
 
